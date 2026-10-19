@@ -15,7 +15,7 @@ HTML, CSS, JavaScript, GSAP (ScrollTrigger), Lenis smooth scroll, Google Fonts (
 - Fully responsive for mobile, tablet and desktop
 
 ## Run Locally
-1. Clone the repository: `git clone <your-repo-link>`
+1. Clone the repository: `https://github.com/kanishkaraichand/Design-verse.git`
 2. Open `index.html` in any browser.
 
 ## Links
