@@ -19,7 +19,7 @@ HTML, CSS, JavaScript, GSAP (ScrollTrigger), Lenis smooth scroll, Google Fonts (
 2. Open `index.html` in any browser.
 
 ## Links
-- Live site: <your Vercel link>
+- Live site: <https://designverse-nirvana-otb91p247-kanishka-1a4b.vercel.app/>
 - Figma design: <https://www.figma.com/design/fgbtCcZtAOtZhwyHNGC0ey/Untitled?node-id=1-3&t=omJnpS1SyS5OxGQw-1>
 
 ## Note
